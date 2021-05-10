@@ -1,0 +1,89 @@
+{
+  "User Details Text": {
+    "CSS_SELECTOR": "div[class='user-details'] h2"
+  },
+  "User Details Text Hi": {
+    "CSS_SELECTOR": "div[class='user-details'] p"
+  },
+  "Cancel Anytime Badges": {
+    "CSS_SELECTOR": "div[class='user-details'] span:nth-child(2)"
+  },
+  "Cardholder Name Label": {
+    "CSS_SELECTOR": "label[for='inputEmail']"
+  },
+  "Cardholder Name Input": {
+    "CSS_SELECTOR": "#cardHolderName"
+  },
+  "Credit Card Number Label": {
+    "CSS_SELECTOR": "div[class='col-md-12'] label[for='inputPassword']"
+  },
+  "Credit Card Number Input": {
+    "CSS_SELECTOR": "#cardNumber"
+  },
+  "Date Of Expire Label": {
+    "CSS_SELECTOR": "div[class='col-sm-7'] label[for='inputPassword']"
+  },
+  "CVV Label": {
+    "CSS_SELECTOR": "div[class='col-sm-5'] label[for='inputPassword']"
+  },
+  "Month Dropdown": {
+    "CSS_SELECTOR": "#cardExpirationMonth"
+  },
+  "Month Dropdown List": {
+    "CSS_SELECTOR": "#cardExpirationMonth option"
+  },
+  "Year Dropdown": {
+    "CSS_SELECTOR": "#cardExpirationYear"
+  },
+  "Year Dropdown List": {
+    "CSS_SELECTOR": "#cardExpirationYear option"
+  },
+  "CVV Input": {
+    "CSS_SELECTOR": "#cardCVV"
+  },
+  "Logo": {
+    "CSS_SELECTOR": ".logo-icon"
+  },
+  "Terms Label": {
+    "CSS_SELECTOR": "div[class='terms']"
+  },
+  "Secure Bar SSL": {
+    "CSS_SELECTOR": "div[class='col-md-12 secure-bar'] img:nth-child(1)"
+  },
+  "Secure Bar MasterCard": {
+    "CSS_SELECTOR": "div[class='col-md-12 secure-bar'] img:nth-child(2)"
+  },
+  "Secure Bar Visa": {
+    "CSS_SELECTOR": "div[class='col-md-12 secure-bar'] img:nth-child(3)"
+  },
+  "Footer Terms and Conditions": {
+    "CSS_SELECTOR": "div[class='col-md-12 footer'] a:nth-child(1)"
+  },
+  "Footer Privacy Policy": {
+    "CSS_SELECTOR": "div[class='col-md-12 footer'] a:nth-child(2)"
+  },
+  "Footer Support": {
+    "CSS_SELECTOR": "div[class='col-md-12 footer'] a:nth-child(3)"
+  },
+  "Start Now Button": {
+    "CSS_SELECTOR": "button[type='submit']"
+  },
+  "Payment Fail": {
+    "CSS_SELECTOR": "div[class='payment-failed']"
+  },
+  "Congratulations İcon": {
+    "CSS_SELECTOR": "div[class='col-12'] img"
+  },
+  "Congratulations Text": {
+    "CSS_SELECTOR": "div[class='col-12'] h2"
+  },
+  "Credit Cart Mastercard İcon": {
+    "CSS_SELECTOR": "img[class='ci-mc']"
+  },
+  "Credit Cart Visa İcon": {
+    "CSS_SELECTOR": "img[class='ci-vi']"
+  },
+  "Homepage İcon": {
+    "CSS_SELECTOR": "div[class='col-9']"
+  }
+}
